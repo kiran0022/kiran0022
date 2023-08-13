@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **React, JS, NodeJS**
 
-- 📫 How to reach me **kirankumarwaste1@gmail.com**
+- 📫 How to reach me **kirankumar22tech@gmail.com**
 
 - ⚡ Fun fact **A Better dilly-dallier**
 
