@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **web-dev**
 
-- 💬 Ask me about **React, JS, NodeJS**
+- 💬 Ask me about **ReactJS, NextJS, NodeJS**
 
 - 📫 How to reach me **kirankumar22tech@gmail.com**
 
