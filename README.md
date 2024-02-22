@@ -20,4 +20,4 @@
 
 
 
-<p align="center">![](https://komarev.com/ghpvc/?username=kiran0022)</p>
+<a>![](https://komarev.com/ghpvc/?username=kiran0022) </a>
